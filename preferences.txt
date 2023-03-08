@@ -1,0 +1,4 @@
+films and series: Breaking Dad, Avatar
+food: kebab
+season: summer
+a country: Italy

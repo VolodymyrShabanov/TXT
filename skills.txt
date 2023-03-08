@@ -1,0 +1,8 @@
+skills:
+Postman,
+Jmeter,
+Check Lists,
+Bag Reports,
+SQL,
+Charles,
+Mobile testing
