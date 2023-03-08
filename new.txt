@@ -1,0 +1,6 @@
+name: Vladynyr
+last name: Shabanov
+ege: 40
+cat_name: Murchik
+cat_ege: 4
+salary: 15000_euro
