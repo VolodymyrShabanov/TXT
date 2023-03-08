@@ -1,1 +1,10 @@
+Enviroment: Windows 10 (Google Chrome)
+Title: You can enter spaces in the 'Password' field and register successfully
+STR:
 
+Go to registration window;
+In the 'Email address' field, enter a valid email;
+In the 'Password' field, enter ' Bla1!';
+Click on the button 'Continue'
+Expected Result: Notification: registration error - 'Password' field
+Actual Result: Registration - completed successfully
